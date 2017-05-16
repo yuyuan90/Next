@@ -15,7 +15,7 @@ header nav.navbar{
     background: white;
     border: none;
     box-shadow: none;
-    z-index: 8;
+    z-index: 10;
     margin: 0 auto;
 }
 header nav.nav1{
@@ -205,45 +205,6 @@ div.panel-group{
 .advantage{
     line-height: 2;
     padding: 25px 20px 40px;
-}
-.icons-section{
-    margin: 0;
-    padding: 50px 20px;
-    border-top: 1px solid rgba(137,137,137,0.1);
-}
-.icons-section1{
-    text-align: center;
-}
-.icons-section2{
-    padding: 40px 0 0;
-    
-}
-div.icons img{
-    width: 60px;
-    margin-bottom: 20px;
-}
-div.icons .caption{
-    text-align: center;
-    border-top: 2px solid black;
-}
-div.icons div.thumbnail{
-    border: none;
-    box-shadow: none;
-    background: transparent;
-}
-.standards{
-    border-top: 1px solid rgba(137,137,137,0.1);
-    border-bottom: 1px solid rgba(137,137,137,0.1);
-    padding: 30px 10px;
-    margin-top: 0;
-}
-.standards h3{
-    text-align: center;
-    
-}
-.standards div{
-    padding: 0px 10px;
-    line-height: 2;
 }
 .advantage h3{
     text-align: center;
