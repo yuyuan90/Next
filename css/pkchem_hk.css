@@ -77,7 +77,7 @@ header div#navbar a:hover{
 }
 
 a.left, a.right{
-    z-index: 11;
+    z-index: 14;
 }
 #cover_container{
     width: 100%;
