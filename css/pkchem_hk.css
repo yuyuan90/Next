@@ -26,7 +26,13 @@ header nav.nav1{
 }
 header nav.nav2{
     padding: 0 10%;
-    background:linear-gradient(to right, rgb(236,51, 23), rgb(251,175,27));
+    background:rgb(255,132,0);
+    background: -webkit-gradient(linear, left top, right bottom, from(#ec3317), to(#fbaf1b));
+    background: -webkit-linear-gradient(left, #ec3317, #fbaf1b); 
+    background: -moz-linear-gradient(left, #ec3317, #fbaf1b); 
+    background: -ms-linear-gradient(left, #ec3317, #fbaf1b); 
+    background: -o-linear-gradient(left, #ec3317, #fbaf1b);
+    background: linear-gradient(to right, #ec3317, #fbaf1b); 
 }
 .nav_lang{
     padding: 38px 0;
@@ -487,8 +493,14 @@ footer{
 }
 #lower-footer{
     width: 100%;
-    background:linear-gradient(to right, rgb(236,51, 23), rgb(251,175,27));
     padding-left: 10%;
+    background:rgb(255,132,0);
+    background: -webkit-gradient(linear, left top, right bottom, from(#ec3317), to(#fbaf1b));
+    background: -webkit-linear-gradient(left, #ec3317, #fbaf1b); 
+    background: -moz-linear-gradient(left, #ec3317, #fbaf1b); 
+    background: -ms-linear-gradient(left, #ec3317, #fbaf1b); 
+    background: -o-linear-gradient(left, #ec3317, #fbaf1b);
+    background: linear-gradient(to right, #ec3317, #fbaf1b); 
 }
 #lower-footer{
     font-size: 1.4rem;
