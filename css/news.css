@@ -93,7 +93,7 @@ a.left, a.right{
     height: 200px;
     top: 0;
     color: white;
-    font-family: -apple-system,"BlinkMacSystemFont","Helvetica","Arial","PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;
+    font-family: "BlinkMacSystemFont","Helvetica","Arial","PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;
     letter-spacing: 2px;
     text-align: center;
     box-sizing: border-box;
@@ -112,7 +112,7 @@ a.left, a.right{
 }
 #crumb li, #crumb li a{
     color: rgb(137,137,137);
-    font-family: -apple-system,"BlinkMacSystemFont","Helvetica","Arial","PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;
+    font-family: "BlinkMacSystemFont","Helvetica","Arial","PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;
     font-size: 15px;
 }
 #content_container{
@@ -146,7 +146,7 @@ div.panel-group{
 }
 .panel-title a, .panel-body li a{
     color: rgb(255,132,0);
-    font-family: -apple-system,"BlinkMacSystemFont","Helvetica","Arial","PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;
+    font-family: "BlinkMacSystemFont","Helvetica","Arial","PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;
 }
 .panel-title a:hover, .panel-body li a:hover{
     cursor: pointer;
@@ -167,7 +167,7 @@ div.panel-group{
     margin-bottom: 100px;
 }
 .article h3, .article h4{
-    font-family: -apple-system,"BlinkMacSystemFont","Helvetica","Arial","PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;
+    font-family: "BlinkMacSystemFont","Helvetica","Arial","PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;
     color: black;
     line-height: 1.2;
 }
@@ -184,7 +184,7 @@ div.panel-group{
     margin-bottom: 10px;
 }
 .article p, .article li{
-    font-family: -apple-system,"BlinkMacSystemFont","Helvetica","Arial","PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;
+    font-family: "BlinkMacSystemFont","Helvetica","Arial","PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;
     font-size: 14px;
     color: rgb(137,137,137);
     line-height: 1.7;
