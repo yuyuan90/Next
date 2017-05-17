@@ -341,7 +341,8 @@ div.row_test a{
 
 #cases_container{
     width: 100%;
-    background: rgb(66,79,111);
+    background: url('../imgs/test1.png') no-repeat;
+    background-size: cover;
     color: white;
     box-sizing: border-box;
     padding-top: 60px;
