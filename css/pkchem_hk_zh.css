@@ -102,7 +102,7 @@ a.left, a.right{
 }
 div#main_title{
     color: white;
-    font-family: "Arial", sans-serif;
+    font-family: "BlinkMacSystemFont","Helvetica","Arial","PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;
     font-size: 44px;
     font-size: 3.3vw;
     font-weight: bold;
@@ -110,7 +110,7 @@ div#main_title{
 div#main_title p{
     margin-top: 0px;
     color: rgb(255,255,255);
-    font-family: "Arial", sans-serif;
+    font-family: "BlinkMacSystemFont","Helvetica","Arial","PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;
     font-size: 16px;
     font-size: 1.3vw;
 }
@@ -168,7 +168,7 @@ span#glow{
     text-align: center;
     color: rgb(116,116,116);
     font-size: 16px;
-    font-family: "Arial", sans-serif;
+    font-family: "BlinkMacSystemFont","Helvetica","Arial","PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;
     text-transform: uppercase;
     line-height: 1.2;
 }
@@ -176,7 +176,7 @@ span#glow{
      background: -webkit-linear-gradient(rgb(236,51, 23), rgb(251,175,27));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-    font-family: "Arial", sans-serif;
+    font-family: "BlinkMacSystemFont","Helvetica","Arial","PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;
     font-size: 26px;
     margin-bottom: 30px;
 }
@@ -286,7 +286,7 @@ span#glow{
 	margin: 0 15px;
 	padding: 60px 0 0 0;
 	height: 110px;
-	font-family: 'Open Sans', Arial, sans-serif;
+	font-family: "BlinkMacSystemFont","Helvetica","Arial","PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;
 	text-shadow: 
 		0 0 1px #fff, 
 		0 1px 2px rgba(0,0,0,0.3);
@@ -358,7 +358,7 @@ div.row_test a{
 }
 .cases-title{
     color: white;
-    font-family: "Arial", sans-serif;
+    font-family: "BlinkMacSystemFont","Helvetica","Arial","PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;
     font-size: 26px;
     position: absolute;
     top: 18px;
@@ -372,7 +372,7 @@ div.row_test a{
 }
 .row12, .row21, .row14, .row23, .row25{
     border-left: 2px dashed white;
-    font-family: "Arial", sans-serif;
+    font-family: "BlinkMacSystemFont","Helvetica","Arial","PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;
 }
 .row12 p, .row21 p, .row14 p, .row23 p, .row25 p{
     font-size: 12px;
@@ -455,7 +455,7 @@ footer{
 }
 .footer-title{
     color: rgb(167,167,167);
-    font-family: "Arial", sans-serif;
+    font-family: "BlinkMacSystemFont","Helvetica","Arial","PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;
     padding-left: 20px;
     font-size: 16px;
     margin-bottom: 10px;
