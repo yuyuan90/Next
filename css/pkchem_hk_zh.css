@@ -343,7 +343,7 @@ div.row_test a{
     width: 100%;
     background: url('../imgs/test6.png') no-repeat;
     background-size: cover;
-    background-position: top;
+    background-position: center;
     color: white;
     box-sizing: border-box;
     padding-top: 60px;
