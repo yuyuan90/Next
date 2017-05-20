@@ -27,7 +27,6 @@ header nav.nav1{
     
 }
 header nav.nav2{
-    width: 100%;
     padding: 0 10%;
     background:rgb(255,132,0);
     background: -webkit-gradient(linear, left top, right bottom, from(#ec3317), to(#fbaf1b));
