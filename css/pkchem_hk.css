@@ -356,12 +356,12 @@ div.row_test a{
     background: url('../imgs/test2.png') no-repeat;
     background-size: cover;
     background-position:center;
-    background: -webkit-gradient(linear, left bottom, right top, from(#e42d66), to(#f59f16));
-    background: -webkit-linear-gradient(to top right, #e42d66, #f59f16); 
-    background: -moz-linear-gradient(to top right, #e42d66, #f59f16); 
-    background: -ms-linear-gradient(to top right, #e42d66, #f59f16); 
-    background: -o-linear-gradient(to top right, #e42d66, #f59f16);
-    background: linear-gradient(to top right, #e42d66, #f59f16);
+    background: -webkit-gradient(linear, left bottom, right top, from(#ff2272), to(#ff8d0f));
+    background: -webkit-linear-gradient(to top right, #ff2272, #ff8d0f); 
+    background: -moz-linear-gradient(to top right, #ff2272, #ff8d0f); 
+    background: -ms-linear-gradient(to top right, #ff2272, #ff8d0f); 
+    background: -o-linear-gradient(to top right, #ff2272, #ff8d0f);
+    background: linear-gradient(to top right, #ff2272, #ff8d0f);
     color: white;
     box-sizing: border-box;
     padding-top: 60px;
