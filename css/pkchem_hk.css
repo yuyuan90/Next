@@ -35,9 +35,9 @@ header nav.nav2{
     background:rgb(255,132,0);
     background: -webkit-gradient(linear, left top, right bottom, from(#ec3317), to(#fbaf1b));
     background: -webkit-linear-gradient(left, #ec3317, #fbaf1b); 
-    background: -moz-linear-gradient(left, #ec3317, #fbaf1b); 
-    background: -ms-linear-gradient(left, #ec3317, #fbaf1b); 
-    background: -o-linear-gradient(left, #ec3317, #fbaf1b);
+    background: -moz-linear-gradient(right, #ec3317, #fbaf1b); 
+    background: -ms-linear-gradient(right, #ec3317, #fbaf1b); 
+    background: -o-linear-gradient(right, #ec3317, #fbaf1b);
     background: linear-gradient(to right, #ec3317, #fbaf1b);
 }
 .nav2 div.container-fluid{
@@ -356,12 +356,12 @@ div.row_test a{
     background: url('../imgs/test2.png') no-repeat;
     background-size: cover;
     background-position:center;
-    background: -webkit-gradient(linear, left bottom, right top, from(#a90e86), to(#fba908));
-    background: -webkit-linear-gradient(to top right, #a90e86, #fba908); 
-    background: -moz-linear-gradient(to top right, #a90e86, #fba908); 
-    background: -ms-linear-gradient(to top right, #a90e86, #fba908); 
-    background: -o-linear-gradient(to top right, #a90e86, #fba908);
-    background: linear-gradient(to top right, #a90e86, #fba908);
+    background: -webkit-gradient(linear, left, right, from(#a90e86), to(#fba908));
+    background: -webkit-linear-gradient(left, #a90e86, #fba908); 
+    background: -moz-linear-gradient(right, #a90e86, #fba908); 
+    background: -ms-linear-gradient(right, #a90e86, #fba908); 
+    background: -o-linear-gradient(right, #a90e86, #fba908);
+    background: linear-gradient(to right, #a90e86, #fba908);
     color: white;
     box-sizing: border-box;
     padding-top: 60px;
@@ -515,9 +515,9 @@ footer{
     background:rgb(255,132,0);
     background: -webkit-gradient(linear, left top, right bottom, from(#ec3317), to(#fbaf1b));
     background: -webkit-linear-gradient(left, #ec3317, #fbaf1b); 
-    background: -moz-linear-gradient(left, #ec3317, #fbaf1b); 
-    background: -ms-linear-gradient(left, #ec3317, #fbaf1b); 
-    background: -o-linear-gradient(left, #ec3317, #fbaf1b);
+    background: -moz-linear-gradient(right, #ec3317, #fbaf1b); 
+    background: -ms-linear-gradient(right, #ec3317, #fbaf1b); 
+    background: -o-linear-gradient(right, #ec3317, #fbaf1b);
     background: linear-gradient(to right, #ec3317, #fbaf1b); 
     font-size: 1.4rem;
     font-weight: 400;
