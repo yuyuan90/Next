@@ -495,7 +495,6 @@ footer{
 }
 #lower-footer{
     width: 100%;
-    padding-left: 10%;
     background:rgb(255,132,0);
     background: -webkit-gradient(linear, left top, right bottom, from(#ec3317), to(#fbaf1b));
     background: -webkit-linear-gradient(left, #ec3317, #fbaf1b); 
@@ -503,14 +502,17 @@ footer{
     background: -ms-linear-gradient(left, #ec3317, #fbaf1b); 
     background: -o-linear-gradient(left, #ec3317, #fbaf1b);
     background: linear-gradient(to right, #ec3317, #fbaf1b); 
-}
-#lower-footer{
     font-size: 1.4rem;
     font-weight: 400;
     color: white;
     padding-bottom: 10px;
     padding-top: 10px;
     
+}
+#lower-footer-inner{
+    width: 100%;
+    max-width: 1065px;
+    margin: 0 auto;
 }
 #lower-footer a{
     text-decoration: none;
