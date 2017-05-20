@@ -26,7 +26,9 @@ header nav.nav1{
     padding: 0;
     
 }
-
+header nav.nav1 a{
+    text-align: center;
+}
 header nav.nav2{
     width: 100%;
     margin:0 auto;
