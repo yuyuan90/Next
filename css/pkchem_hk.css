@@ -26,23 +26,18 @@ header nav.nav1{
     padding: 0;
     
 }
-#nav2-container{
+
+header nav.nav2{
     width: 100%;
-    margin: 0;
+    margin:0 auto;
+    padding: 0 10%;
     background:rgb(255,132,0);
     background: -webkit-gradient(linear, left top, right bottom, from(#ec3317), to(#fbaf1b));
     background: -webkit-linear-gradient(left, #ec3317, #fbaf1b); 
     background: -moz-linear-gradient(left, #ec3317, #fbaf1b); 
     background: -ms-linear-gradient(left, #ec3317, #fbaf1b); 
     background: -o-linear-gradient(left, #ec3317, #fbaf1b);
-    background: linear-gradient(to right, #ec3317, #fbaf1b); 
-}
-header nav.nav2{
-    width: 100%;
-    max-width: 1065px;
-    margin:0 auto;
-    padding: 0 10%;
-    
+    background: linear-gradient(to right, #ec3317, #fbaf1b);
 }
 .nav_lang{
     padding: 38px 0;
