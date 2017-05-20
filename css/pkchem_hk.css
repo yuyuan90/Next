@@ -42,7 +42,7 @@ header nav.nav2{
 	width: 100%;
 	max-width: 1065px;
 	margin: 0 auto;
-	padding:0;
+	padding:0 10px;
 }
 .nav_lang{
     padding: 38px 0;
