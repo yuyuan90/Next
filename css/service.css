@@ -6,7 +6,8 @@ body{
     overflow-y: auto;
 }
 #container{
-    width: 80%;
+    width: 100%;
+    max-width: 1065px;
     height: 100%;
     margin: 0 auto;
 }
@@ -15,17 +16,22 @@ header nav.navbar{
     background: white;
     border: none;
     box-shadow: none;
-    z-index: 10;
+    z-index: 8;
     margin: 0 auto;
 }
 header nav.nav1{
-    width: 80%;
+    width: 100%;
+    max-width: 1065px;
     margin: 0 auto;
     padding: 0;
     
 }
+header nav.nav1 a{
+    text-align: center;
+}
 header nav.nav2{
-    padding: 0 10%;
+    width: 100%;
+    margin:0 auto;
     background:rgb(255,132,0);
     background: -webkit-gradient(linear, left top, right bottom, from(#ec3317), to(#fbaf1b));
     background: -webkit-linear-gradient(left, #ec3317, #fbaf1b); 
@@ -33,6 +39,12 @@ header nav.nav2{
     background: -ms-linear-gradient(left, #ec3317, #fbaf1b); 
     background: -o-linear-gradient(left, #ec3317, #fbaf1b);
     background: linear-gradient(to right, #ec3317, #fbaf1b);
+}
+.nav2 div.container-fluid{
+	width: 100%;
+	max-width: 1065px;
+	margin: 0 auto;
+	padding:0 10px;
 }
 .nav_lang{
     padding: 38px 0;
@@ -74,7 +86,6 @@ header div#navbar a:hover{
     cursor: pointer;
     border-bottom: 4px solid white;
 }
-
 .nav2 a.navbar-brand{
     color: white;
 }
