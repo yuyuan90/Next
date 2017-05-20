@@ -13,7 +13,6 @@ body{
 }
 header nav.navbar{
     width: 100%;
-    max-width: 1065px;
     background: white;
     border: none;
     box-shadow: none;
@@ -418,14 +417,13 @@ div.row_test a{
 }
 footer{
     width: 100%;
-    max-width: 1065px;
     background: rgb(238,238,238);
     box-sizing: border-box;
     border-top: 1px solid white;
 }
 #upper-footer{
     width: 100%;
-    
+    max-width: 1065px;
 }
 #contact-info{
     margin-top: 30px;
