@@ -13,6 +13,7 @@ body{
 }
 header nav.navbar{
     width: 100%;
+    max-width: 1065px;
     background: white;
     border: none;
     box-shadow: none;
@@ -20,7 +21,7 @@ header nav.navbar{
     margin: 0 auto;
 }
 header nav.nav1{
-    width: 80%;
+    width: 100%;
     margin: 0 auto;
     padding: 0;
     
@@ -417,6 +418,7 @@ div.row_test a{
 }
 footer{
     width: 100%;
+    max-width: 1065px;
     background: rgb(238,238,238);
     box-sizing: border-box;
     border-top: 1px solid white;
