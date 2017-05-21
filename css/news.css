@@ -217,7 +217,6 @@ footer{
     background: -ms-linear-gradient(left, #ec3317, #fbaf1b); 
     background: -o-linear-gradient(left, #ec3317, #fbaf1b);
     background: linear-gradient(to right, #ec3317, #fbaf1b);
-    padding-left: 10%;
 }
 #lower-footer{
     width: 100%;
