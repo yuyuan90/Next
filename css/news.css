@@ -209,10 +209,7 @@ div.panel-group{
     cursor: pointer;
 }
 footer{
-    width: 100%;  
-}
-#lower-footer{
-    width: 100%;
+    width: 100%; 
     background:rgb(255,132,0);
     background: -webkit-gradient(linear, left top, right bottom, from(#ec3317), to(#fbaf1b));
     background: -webkit-linear-gradient(left, #ec3317, #fbaf1b); 
@@ -221,6 +218,10 @@ footer{
     background: -o-linear-gradient(left, #ec3317, #fbaf1b);
     background: linear-gradient(to right, #ec3317, #fbaf1b);
     padding-left: 10%;
+}
+#lower-footer{
+    width: 100%;
+    max-width: 1065px; 
 }
 
 #lower-footer{
