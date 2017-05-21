@@ -362,7 +362,7 @@ div.row_test a{
     background: linear-gradient(to right top, #ee0a78, #ff6900);
     background: url('../imgs/test12.png') no-repeat;
     background-size: cover;
-    background-position:center;
+    background-position:bottom;
     color: white;
     box-sizing: border-box;
     padding-top: 60px;
