@@ -364,16 +364,22 @@ div.row_test a{
 
 #cases_container{
     width: 100%;
-    background: url('../imgs/test6.png') no-repeat;
+    background: -webkit-gradient(linear, left bottom, right top, from(#ee0a78), to(#ff6900));
+    background: -webkit-linear-gradient(left bottom, #ee0a78, #ff6900); 
+    background: -moz-linear-gradient(right top, #ee0a78, #ff6900); 
+    background: -ms-linear-gradient(right top, #ee0a78, #ff6900); 
+    background: -o-linear-gradient(right top, #ee0a78, #ff6900);
+    background: linear-gradient(to right top, #ee0a78, #ff6900);
+    background: url('../imgs/test12.png') no-repeat;
     background-size: cover;
-    background-position: center;
+    background-position: bottom right;
     color: white;
     box-sizing: border-box;
     padding-top: 60px;
     padding-bottom: 60px;
 }
 #cases_container_inner{
-    width: 90%;
+    width: 100%;
     margin: 0px auto;   
 }
 .hideme{
