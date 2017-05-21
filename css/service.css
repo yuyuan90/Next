@@ -279,6 +279,7 @@ footer{
 #lower-footer{
     width: 100%;
     max-width: 1065px; 
+    margin: 0 auto;
 }
 #lower-footer{
     font-size: 1.4rem;
