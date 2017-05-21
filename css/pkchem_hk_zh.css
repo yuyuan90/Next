@@ -132,6 +132,17 @@ span#glow{
     color: rgb(255,132,0);
     text-shadow: 5px 1px 3px rgb(255,255,255);
 }
+@media only screen and (min-width: 1065px) {
+	div#main_title{
+		font-size: 44px;
+	}
+	span#glow{
+		font-size:70px;
+	}
+	div#main_title p{
+		font-size:16px;
+	}
+}
 #cover_container img{
     width: 100%;
     background-size: cover;
