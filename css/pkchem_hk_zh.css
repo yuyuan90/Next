@@ -115,8 +115,8 @@ a.left, a.right{
 div#main_title{
     color: white;
     font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, Arial, "PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;
-    font-size: 44px;
-    font-size: 3.3vw;
+    font-size: 49px;
+    font-size: 3.6vw;
 }
 div#main_title p{
     margin-top: 0px;
@@ -125,18 +125,9 @@ div#main_title p{
     font-size: 16px;
     font-size: 1.3vw;
 }
-span#glow{
-    font-size: 70px;
-    font-size: 5.2vw;
-    color: rgb(255,132,0);
-    text-shadow: 5px 1px 3px rgb(255,255,255);
-}
 @media only screen and (min-width: 1065px) {
 	div#main_title{
-		font-size: 44px;
-	}
-	span#glow{
-		font-size:70px;
+		font-size: 49px;
 	}
 	div#main_title p{
 		font-size:16px;
